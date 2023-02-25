@@ -1,0 +1,13 @@
+//print ascii code
+#include<iostream>
+using namespace std;
+int main()
+{
+    char c;
+     cin>>c;
+    cout<<int(c);
+}
+output->
+
+c
+99
